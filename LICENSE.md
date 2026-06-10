@@ -1,4 +1,4 @@
-# 
+# Meilleur AI Handwriting Recognition scripts. Avec reconnaissance vocale et analyse des sentiments — optimisé pour des performances maximales.
 
 
 
